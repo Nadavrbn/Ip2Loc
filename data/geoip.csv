@@ -1,0 +1,21 @@
+ip,city,country
+192.168.1.1,New York,United States
+172.16.0.1,Los Angeles,United States
+10.0.0.1,London,United Kingdom
+203.0.113.4,Tokyo,Japan
+198.51.100.5,Sydney,Australia
+192.0.2.10,Paris,France
+203.0.113.12,Berlin,Germany
+172.16.0.2,Moscow,Russia
+10.0.0.2,Rio de Janeiro,Brazil
+192.168.1.2,Beijing,China
+203.0.113.15,Rome,Italy
+198.51.100.7,Mexico City,Mexico
+172.16.0.3,Cairo,Egypt
+10.0.0.3,Delhi,India
+192.0.2.15,Seoul,South Korea
+203.0.113.22,Istanbul,Turkey
+198.51.100.9,Bangkok,Thailand
+172.16.0.4,Cape Town,South Africa
+10.0.0.4,Madrid,Spain
+192.0.2.20,Toronto,Canada
