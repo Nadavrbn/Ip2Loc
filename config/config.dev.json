@@ -1,0 +1,11 @@
+{
+    "datastore":
+    {
+        "type":"CSV",
+        "filePath": "./data/geoip.csv"
+    },
+    "rateLimiter": 
+    {
+        "maxConcurrentRequests": "2"
+    }
+}
